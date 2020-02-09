@@ -5,6 +5,7 @@
 #
 # HISTORY:
 # 20200131T234830Z if "ts" if typed by itself on the cli, the script should return the current timestamp
+# 20200209T225351Z this now lives on github at https://github.com/GlenCooper/timestamps/blob/master/ts.sh
 
 # see https://archive.ph/ksHkJ
 if test -z "$1"
