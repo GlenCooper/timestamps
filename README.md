@@ -1,2 +1,2 @@
 # timestamps
-timestamps.glencooper.com madness
+See https://timestamps.glencooper.com
